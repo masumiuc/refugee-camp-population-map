@@ -3,4 +3,4 @@
 This repository contains the QGIS project files, datasets, and final layout for the Nayapara Camp Cluster population visualization.
 
 ## Final Map Output
-![Nayapara Camp Population Map](Nayapara_Camp_Population_Map.png)
+![Nayapara Camp Population Map](Teknaf_Camp_Population_Map.png)
